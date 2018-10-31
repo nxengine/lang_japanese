@@ -12,6 +12,15 @@
   "Press new key for:" : "すでに使用中のボタン: ",
   "Key already in use by:" : "既に使用中のボタン: ",
 
+  "Graphics": "グラフィック設定",
+  "Sound": "オーディオ設定",
+
+  "SFX volume: ": "SFXラウドネス: ",
+  "Music volume: ": "BGMラウドネス: ",
+  "Bind keys": "キー割り当ての変更",
+  "Strafing: ": "後退する: ",
+  "Strafe": "後退する",
+
   "Resolution: ": "解像度: ",
   "Fullscreen: ": "フルスクリーン: ",
   "On": "有効",
